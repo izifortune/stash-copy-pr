@@ -1,5 +1,5 @@
 {
-  "name": "stash-pr-copy",
+  "name": "Stash Copy PR",
   "private": true,
   "engines": {
     "node": ">=0.8.0"

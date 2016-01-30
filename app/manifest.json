@@ -17,8 +17,6 @@
   "permissions": [
     "activeTab",
     "tabs",
-    "http://*/*",
-    "https://*/*",
     "clipboardWrite"
   ],
   "page_action": {
@@ -26,6 +24,6 @@
       "19": "images/icon-19.png",
       "38": "images/icon-38.png"
     },
-    "default_title": "stash pr copy"
+    "default_title": "Stash Copy PR"
   }
 }
