@@ -12,7 +12,7 @@ function copyToClipboard(text) {
   document.body.removeChild(copyDiv);
 }
 
-let prName = (document.querySelectorAll('.target-branch .name')[0] || {}).innerText;
+let prName = (document.querySelectorAll('.source-branch .name')[0] || {}).innerText;
 if (prName) {
   console.log(prName);
   copyToClipboard(prName);
