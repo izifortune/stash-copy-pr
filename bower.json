@@ -1,7 +1,7 @@
 {
   "name": "stash-copy-pr",
   "description": "Chrome extension to copy the pull request name from Stash on clipboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [{
     "name": "Fabrizio Fortunato",
     "email": "fortune@cortesconta.net",
