@@ -1,7 +1,7 @@
 {
   "name": "stash-copy-pr",
   "description": "Chrome extension to copy the pull request name from Stash on clipboard",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "author": {
     "name": "Fabrizio Fortunato",
@@ -11,6 +11,10 @@
   "keywords": [
     "stash"
   ],
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/izifortune/stash-copy-pr.git"
+  },
   "engines": {
     "node": ">=0.8.0"
   },
